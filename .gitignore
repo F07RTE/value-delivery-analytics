@@ -1,0 +1,5 @@
+value-delivery-analytics-env/
+results/
+
+# Ignore environment variable files
+.env
